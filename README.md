@@ -44,7 +44,7 @@ Currently focused on web development, Python, Django, and building useful projec
 
 ### Tools & Technologies
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,visualstudio)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,docker,googlecloud,godot,vscode,pycharm,visualstudio)](https://skillicons.dev)
 
 </div>
 
