@@ -72,50 +72,6 @@ Currently focused on web development, Python, Django, and building useful projec
 
 <div align="center">
 
-## 🛠️ Featured Projects
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📊 MTA DevDashboard
-
-Developer dashboard built with:
-
-**HTML · CSS · JavaScript**
-
-A lightweight developer workspace for managing projects, tasks, notes, activity, and more.
-
-</td>
-
-<td width="50%" align="center">
-
-### 🌱 Smart Plant
-
-An IoT project built around **ESP32**.
-
-Automated plant monitoring and irrigation with sensors, control systems, and a companion application.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mta-company-dev&theme=tokyo-night&hide_border=true" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
 ## 📫 Connect With Me
 
 <a href="mailto:toutounchimani@gmail.com">
@@ -130,7 +86,7 @@ Automated plant monitoring and irrigation with sensors, control systems, and a c
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/MTA2931">
+<a href="https://github.com/mta-company-dev">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
