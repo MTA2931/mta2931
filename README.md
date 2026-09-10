@@ -35,6 +35,11 @@ I enjoy working on web development projects and creating useful applications wit
 
 ---
 
+## 🏆 Achievements
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MTA2931&theme=tokyonight)
+
+---
+
 ## 📫 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toutounchimani@gmail.com)
