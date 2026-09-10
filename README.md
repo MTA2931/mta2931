@@ -36,7 +36,7 @@ I enjoy working on web development projects and creating useful applications wit
 ---
 
 ## 🏆 Achievements
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MTA2931&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mta-company-dev&theme=tokyonight)
 
 ---
 
