@@ -54,17 +54,17 @@ Currently focused on web development, Python, Django, and building useful projec
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mta-company-dev&theme=tokyonight" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MTA2931&theme=tokyonight" width="100%">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mta-company-dev&theme=tokyonight" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mta-company-dev&theme=tokyonight" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MTA2931&theme=tokyonight" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MTA2931&theme=tokyonight" width="49%">
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mta-company-dev&theme=tokyonight" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mta-company-dev&theme=tokyonight&utcOffset=3" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MTA2931&theme=tokyonight" width="49%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MTA2931&theme=tokyonight&utcOffset=3" width="49%">
 
 </div>
 
@@ -86,7 +86,7 @@ Currently focused on web development, Python, Django, and building useful projec
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://github.com/mta-company-dev">
+<a href="https://github.com/MTA2931">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
