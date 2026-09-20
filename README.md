@@ -52,19 +52,21 @@ Currently focused on web development, Python, Django, and building useful projec
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 🎓 Certifications
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MTA2931&theme=tokyonight" width="100%">
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MTA2931&theme=tokyonight" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MTA2931&theme=tokyonight" width="49%">
+<a href="./google-analytics-certification-2026.pdf">
+  <img src="https://img.shields.io/badge/Google%20Analytics-Certification%202026-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+</a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MTA2931&theme=tokyonight" width="49%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MTA2931&theme=tokyonight&utcOffset=3" width="49%">
+**Google Analytics Certification (2026)**
+Issued by Google · September 20, 2026
+Valid until September 20, 2027
+
+<br>
+
+<a href="./google-analytics-certification-2026.pdf">📜 View Certificate</a>
 
 </div>
 
