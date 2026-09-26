@@ -40,7 +40,7 @@ Currently focused on web development, Python, Django, and building useful projec
 
 ### Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,django,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,golang,flask,django,js,html,css)](https://skillicons.dev)
 
 ### Tools & Technologies
 
