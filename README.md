@@ -55,7 +55,7 @@ Currently focused on web development, Python, Django, and building useful projec
 ## 🎓 Certifications
 
 <a href="./google-analytics-certification-2026.pdf">
-  <img src="https://img.shields.io/badge/Google%20Analytics-Certification%202026-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Analytics-Certification%202026-4285F4?style=for-the-badge">
 </a>
 
 <br><br>
@@ -71,7 +71,7 @@ Valid until September 20, 2027
 ---
 
 <a href="./google-cloud-cybersecurity-certificate.pdf">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=googlesecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Certificate-4285F4?style=for-the-badge">
 </a>
 
 <br><br>
