@@ -4,18 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Django+Developer;Building+with+Code+%26+Curiosity\&center=true\&size=26)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/earthtojake/text-to-cad">
-    <img
-      src="https://img.shields.io/badge/Explore-Text--to--CAD-181717?style=for-the-badge&logo=github"
-      alt="Explore Text-to-CAD"
-    />
-  </a>
-  <p>
-    Developer
-  </p>
-</div>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=MTA2931&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
