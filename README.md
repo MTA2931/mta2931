@@ -71,14 +71,13 @@ Valid until September 20, 2027
 
 
 <a href="./google-cloud-cybersecurity-certificate.pdf">
-  <img src="https://img.shields.io/badge/Google%20Analytics-Certification%202026-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white">
 </a>
 
 <br><br>
 
-**Google Analytics Certification (2026)**
-Issued by Google · September 20, 2026
-Valid until September 20, 2027
+**Google Cloud Cybersecurity Certificate**
+Issued by Google · October 9, 2026
 
 <br>
 
