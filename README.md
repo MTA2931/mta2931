@@ -2,7 +2,7 @@
 
 # Hey there, I'm Mani
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Django+Developer;Building+with+Code+%26+Curiosity\&center=true\&size=26)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Full-stack+Developer;Building+with+Code+%26+Curiosity\&center=true\&size=26)](https://git.io/typing-svg)
 
 ### 💻 Web Developer · 🐍 Python Programmer
 
