@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Python+Programmer;Django+Developer;Building+with+Code+%26+Curiosity\&center=true\&size=26)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MTA2931&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ### 💻 Web Developer · 🐍 Python Programmer
 
 <p>
