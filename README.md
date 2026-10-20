@@ -40,7 +40,7 @@ Currently focused on web development, Python, Django, and building useful projec
 
 ### Tools & Technologies
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,linux,gcp,godot,vscode,visualstudio,pycharm,docker,sqlite,postgres,supabase)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,linux,gcp,godot,vscode,visualstudio,pycharm,supabase)](https://skillicons.dev)
 
 </div>
 
