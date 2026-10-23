@@ -50,8 +50,6 @@ Currently focused on web development, Python, Django, and building useful projec
 
 ## 🎓 Certifications
 
-<sub>Verified credentials · Click a card to open the certificate</sub>
-
 <br>
 
 <table>
