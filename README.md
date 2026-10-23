@@ -56,7 +56,7 @@ Currently focused on web development, Python, Django, and building useful projec
 
 <table>
   <tr>
-    <td align="center" width="100rem">
+    <td align="center" width="1000px">
       <a href="./google-analytics-certification-2026.pdf">
         <img src="https://img.shields.io/badge/Google-Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
       </a>
@@ -66,7 +66,7 @@ Currently focused on web development, Python, Django, and building useful projec
       <br><br>
       <a href="./google-analytics-certification-2026.pdf">📜 <b>View Certificate</b></a>
     </td>
-    <td align="center" width="100rem">
+    <td align="center" width="1000px">
       <a href="./google-cloud-cybersecurity-certificate.pdf">
         <img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Cybersecurity">
       </a>
