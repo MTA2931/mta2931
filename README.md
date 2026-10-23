@@ -60,7 +60,7 @@ Currently focused on web development, Python, Django, and building useful projec
       <a href="./google-analytics-certification-2026.pdf">
         <img src="https://img.shields.io/badge/Google-Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
       </a>
-      <h3>Google Analytics Certification</h3>
+      <h3>Google Analytics Certification (2026)</h3>
       <p>Issued by <b>Google</b></p>
       <img src="https://img.shields.io/badge/Issued-Sep%2020%2C%202026-2ea44f?style=flat-square" alt="Issued">
       <br><br>
