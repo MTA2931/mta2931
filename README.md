@@ -50,34 +50,35 @@ Currently focused on web development, Python, Django, and building useful projec
 
 ## 🎓 Certifications
 
-<a href="./google-analytics-certification-2026.pdf">
-  <img src="https://img.shields.io/badge/Google%20Analytics-Certification%202026-4285F4?style=for-the-badge">
-</a>
-
-<br><br>
-
-**Google Analytics Certification (2026)**
-Issued by Google · September 20, 2026
-Valid until September 20, 2027
+<sub>Verified credentials · Click a card to open the certificate</sub>
 
 <br>
 
-<a href="./google-analytics-certification-2026.pdf">📜 View Certificate</a>
-
----
-
-<a href="./google-cloud-cybersecurity-certificate.pdf">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity%20Certificate-4285F4?style=for-the-badge">
-</a>
-
-<br><br>
-
-**Google Cloud Cybersecurity Certificate**
-Issued by Google · October 9, 2026
-
-<br>
-
-<a href="./google-cloud-cybersecurity-certificate.pdf">📜 View Certificate</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./google-analytics-certification-2026.pdf">
+        <img src="https://img.shields.io/badge/Google-Analytics-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics">
+      </a>
+      <h3>Google Analytics Certification</h3>
+      <p>Issued by <b>Google</b></p>
+      <img src="https://img.shields.io/badge/Issued-Sep%2020%2C%202026-2ea44f?style=flat-square" alt="Issued">
+      <img src="https://img.shields.io/badge/Valid%20until-Sep%2020%2C%202027-orange?style=flat-square" alt="Valid until">
+      <br><br>
+      <a href="./google-analytics-certification-2026.pdf">📜 <b>View Certificate</b></a>
+    </td>
+    <td align="center" width="50%">
+      <a href="./google-cloud-cybersecurity-certificate.pdf">
+        <img src="https://img.shields.io/badge/Google%20Cloud-Cybersecurity-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Cybersecurity">
+      </a>
+      <h3>Google Cloud Cybersecurity Certificate</h3>
+      <p>Issued by <b>Google</b></p>
+      <img src="https://img.shields.io/badge/Issued-Oct%209%2C%202026-2ea44f?style=flat-square" alt="Issued">
+      <br><br>
+      <a href="./google-cloud-cybersecurity-certificate.pdf">📜 <b>View Certificate</b></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
